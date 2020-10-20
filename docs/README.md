@@ -64,6 +64,7 @@
 
 - Elixir(PhoenixFramework)
 - GCP
+- ReactJS
 
 ### 2018/08 - 2020/09
 
