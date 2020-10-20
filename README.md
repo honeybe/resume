@@ -4,6 +4,8 @@
 
 https://github.com/kawamataryo/resume
 
+https://zenn.dev/ryo_kawamata/articles/resume-on-github
+
 ## Features
 
 ### 💅 Lint text
