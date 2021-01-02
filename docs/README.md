@@ -29,6 +29,7 @@
   - JQuery
   - AngularJS(v1,v2)
 - HTML5, CSS3
+- Elixir
 
 - 日本語
   - かんたんな日常会話ができる
@@ -50,7 +51,6 @@
 ## やったことはないが興味があるもの
 
 - Go言語
-- Elixir
 - 機械学習
 - Dockerによる分散システム構成
 
@@ -63,8 +63,6 @@
 #### 経費精査システム 開発
 
 - Elixir(PhoenixFramework)
-- GCP
-- ReactJS
 
 ### 2018/08 - 2020/09
 
