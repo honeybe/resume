@@ -24,12 +24,14 @@
   - 他
 - Python (0.5ヶ月 / Python2)
   - Django(on GAE/Python)
-- Scala (0.5ヶ月)
+- Scala
 - JavaScript
   - JQuery
   - AngularJS(v1,v2)
+  - React
 - HTML5, CSS3
 - Elixir
+- Rust
 
 - 日本語
   - かんたんな日常会話ができる
@@ -59,10 +61,13 @@
 ### 2020/10 - : Miletos(株)
 
 職種 : サーバサイドエンジニア
+フリーランスとして仕事を始める
 
 #### 経費精査システム 開発
 
 - Elixir(PhoenixFramework)
+- React / TypeScript
+- Rust
 
 ### 2018/08 - 2020/09
 
