@@ -4,10 +4,9 @@
 
 |key|value|
 |---|-----|
-|Name|HoneyBe(honeybe))|
+|Name|HoneyBe(honeybe)|
 |Blog|[あくまで個人的なメモ](https://honeybe.hatenablog.jp/)|
 |GitHub|[honeybe](https://github.com/honeybe)|
-|Qiita|[honeybe](https://qiita.com/honeybe)|
 
 ## スキル
 
@@ -24,14 +23,14 @@
   - 他
 - Python (0.5ヶ月 / Python2)
   - Django(on GAE/Python)
-- Scala
+- Scala (6ヶ月程)
 - JavaScript
   - JQuery
   - AngularJS(v1,v2)
   - React
 - HTML5, CSS3
-- Elixir
-- Rust
+- Elixir (1年程)
+- Rust (1年程)
 
 - 日本語
   - かんたんな日常会話ができる
@@ -39,6 +38,8 @@
 ### その他
 
 - AWS
+- GCP
+- terraform
 
 ## 強み
 
@@ -52,21 +53,23 @@
 
 ## やったことはないが興味があるもの
 
-- Go言語
 - 機械学習
 
 ## 職務経歴
 
-### 2020/10 - : Miletos(株)
+### 2020/10 - 2023/10: Miletos(株)
 
 職種 : サーバサイドエンジニア
 フリーランスとして仕事を始める
 
-#### 経費精査システム 開発
+#### 経費システム 開発
 
+- インフラからフロントエンドまで全般。
 - Elixir(PhoenixFramework)
 - React / TypeScript
-- Rust
+- Rust(actix-web/diesel)
+- GCP / kubernetes
+- terraform
 
 ### 2018/08 - 2020/09
 
